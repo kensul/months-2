@@ -1,7 +1,7 @@
 let star = '*';
 while (star.length < 8) {
     console.log(star);
-    star = star + '*'
+    star += '*'
 }
 
 
